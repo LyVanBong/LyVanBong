@@ -10,9 +10,10 @@
 
 <h3 align="left">Social Network:</h3>
 <p><a href="https://www.facebook.com/100083072888461/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/250px-Facebook_New_Logo_%282015%29.svg.png" height="50" width="150" alt="bonglv.official" /></a></p>
-<br/><br/><br/>
-
-<p><a href="https://t.me/bbyte_tech/3"> <img align="left" src="https://user-images.githubusercontent.com/87922239/154884184-ec10b5ee-b16a-431b-bba4-07137c905c7a.png" height="50" width="150" alt="bonglv.official" /></a></p><br/>
+<br/><br/>
+<!--- 
+<br/>
+<p><a href="https://t.me/bbyte_tech/3"> <img align="left" src="https://user-images.githubusercontent.com/87922239/154884184-ec10b5ee-b16a-431b-bba4-07137c905c7a.png" height="50" width="150" alt="bonglv.official" /></a></p><br/>](url) -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bonglv.official"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="bonglv.official" /></a></p>
