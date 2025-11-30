@@ -72,6 +72,9 @@
   <a href="https://www.facebook.com/100083072888461/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://x.com/LyVanBong">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
 <div align="center">
